@@ -1,0 +1,7 @@
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\vicar\OneDrive\Área de Trabalho\Pessoal\Estudos\Curso - C#\Projetos\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
